@@ -1,4 +1,4 @@
-module sdram_axi_core
+module sdram_axi_pmem
 (
     // Inputs
      input           clk_i
